@@ -5,7 +5,7 @@
 
 
 
-<b>Passionate and self-motivated aspiring full-stack developer from India (Assam). </b> Specialization in MERN stack with a keen interest in learning and working with new technology. I always stay hungry to learning new thing. I love to explore the  digital things and helping others who needed me . Love to work on different challenging projects.
+<b>Passionate and self-motivated aspiring full-stack developer from India (Assam). </b> Specialization in MERN stack with a keen interest in learning and working with new technology. I always stay hungry to learn new thing. I love to explore the  digital things and helping others who needed me . Love to work on different challenging projects.
 
 Skills: REACT / JS / HTML / CSS
 
