@@ -8,3 +8,23 @@
 <br/>
 
 
+<h3>
+ 
+  <h2> About Me </h2>
+
+- 🔭 **Enthusiastic** learner
+
+- 🌱 Currently learning **Full Stack Web Development**
+
+- 👯 Looking to collaborate on **Open Source Projects and in Web Development**
+
+- 👨‍💻 Visit **[My personal site](https://alaluddin123.github.io/)** 
+
+- 💬 Ask me about **Web development and Coding projects**
+
+- 📫 How to reach me: <a href="mailto:alalu75666@gmail.com" target="_blank" >
+  <img alt="alalu75666@gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alalu75666@gmail.com@gmail.com&longCache=true">
+  </a>
+</h3>
+
+
