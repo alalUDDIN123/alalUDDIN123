@@ -50,8 +50,31 @@
 <br/>
 <br/>
 <p align="center">
-  <img height="150" width="150" src="./gif/left.webp"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alalUDDIN123&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/><img height="150" width="150" src="./gif/right.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alalUDDIN123&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
 </p>
 
 <br/>
 <br/>
+<p align="center" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=alalUDDIN123&theme=high-contrast&hide_border=false"/>
+</p>
+
+<br/>
+<br/>
+<h2 align="center">💻 Languages and Tools</h2>
+
+<br/>
+<br/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="box-shadow: rgb(228,77,38) 0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid orange"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="box-shadow: rgba(2, 65, 255, 0.956)  0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Ravi-047/Ravi-047/main/gif/javascript.png" alt="JavaScript" width="60" height="60" style="box-shadow: #f0db4f  0px 5px 20px 5px; border-radius:8px; padding:5px; background:rgb(242,242,242); border:3px solid yellow"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="box-shadow: #7ae0fc  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid lightblue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="box-shadow: #3498db  0px 5px 20px 5px; border-radius:8px; padding:5px; background:#7ae0fc; border:3px solid black"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="box-shadow: #f03c2e  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid red"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60" style="box-shadow: #6762a6  0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid purple"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="box-shadow: #88f197  0px 5px 20px 5px; border-radius:8px; padding:5px; background:#88f197; border:3px solid green"/>
+</p>
+
+<p style=" margin-top:25px" align="center">
+  <img src="https://raw.githubusercontent.com/Ravi-047/Ravi-047/1bac800128d38bcb0418c29f349cb083ff1ff2f7/gif/nodejs.svg" alt="nodejs" width="60" height="60" style="box-shadow: #026e00  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid green"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="box-shadow: #7046b3  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid purple"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="box-shadow: #00d4f2  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" style="box-shadow:blue 0px 5px 20px 5px; border-radius:8px; padding:5px; background:
+#007acc; border:3px solid black"/>
+</p>
+
+<br/>
+
