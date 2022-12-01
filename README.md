@@ -89,6 +89,6 @@
 <br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
 
