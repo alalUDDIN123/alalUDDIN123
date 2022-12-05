@@ -3,7 +3,7 @@
 ![](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 
 <h3 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h3>
-<em><b>I'm passionate about solving technical problems and researching and developing new sites and technologies. I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
+<em><b>I'm passionate about solving technical problems and researching and developing new sites and technologies.I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
 
 <p align="center">
   <a href="https://github.com/alalUDDIN123"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
