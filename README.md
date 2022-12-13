@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1GkfjNpv6I2RNkgssOCcm7uhGcCWlhwd-A&usqp=CAU" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/alalUDDIN123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://leetcode.com/alalu75666/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon.png" alt="GitHub" height="40" width="40" /></a>
 
