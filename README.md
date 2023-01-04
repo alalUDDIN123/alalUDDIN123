@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alal Uddin</h1>
 
-![](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
+![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 <h3 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h3>
 <em><b>I'm passionate about solving technical problems and researching and developing new sites and technologies.I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
@@ -11,9 +11,11 @@
 
 ---
 <br/>
+
+
+## 🙋‍♂️ About Me
 <h3>
  
-
 - 🔭 **Enthusiastic** learner
 
 - 🌱 Currently learning **Full Stack Web Development**
@@ -30,6 +32,44 @@
 </h3>
 
 <br/>
+
+
+<!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
+## 🚀 Languages and Tools:
+<div >
+ <div ><h2>Frontend</h2>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" align="center" alt="styled-components" />
+ <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+ <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+ <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>  
+</div>
+
+  <div ><h2>Backend</h2> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+
+ </div>
+  <div ><h2>Tools</h2> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
+</div>
+
+---
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,17 +110,6 @@
 </p>
 
 <br/>
-<br/>
-<h2 align="center">💻 Languages and Tools</h2>
-
-<br/>
-<br/>
-
-<p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html5" width="60" height="60" style="box-shadow: rgb(228,77,38) 0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid orange"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://toppng.com//public/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" alt="css3" width="60" height="60" style="box-shadow: rgba(2, 65, 255, 0.956)  0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid blue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-24.jpg" alt="JavaScript" width="60" height="60" style="box-shadow: #f0db4f  0px 5px 20px 5px; border-radius:8px; padding:5px; background:rgb(242,242,242); border:3px solid yellow"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/AFY95yFw1P4ErzREpYWiSRyy6GyFA34pc70dP7MuHfkP12alfktC0Rp2ht-LbPAvO5sg" alt="React" width="60" height="60" style="box-shadow: #7ae0fc  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid lightblue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjuU7uhXx0_ES2SMQc1RJYpJ-HjJC1fWOTqhPCPPydumFnbx7TTP2GY8RDpVcXGue6yk&usqp=CAU" alt="express" width="60" height="60" style="box-shadow: #3498db  0px 5px 20px 5px; border-radius:8px; padding:5px; background:#7ae0fc; border:3px solid black"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="box-shadow: #f03c2e  0px 5px 20px 5px; border-radius:8px; padding:5px; background:black; border:3px solid red"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60" style="box-shadow: #6762a6  0px 5px 20px 5px; border-radius:8px; padding:5px; background:white; border:3px solid purple"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="box-shadow: #88f197  0px 5px 20px 5px; border-radius:8px; padding:5px; background:#88f197; border:3px solid green"/>
-</p>
-
 
 
 <br/>
