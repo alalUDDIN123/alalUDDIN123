@@ -76,10 +76,16 @@
   <a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1GkfjNpv6I2RNkgssOCcm7uhGcCWlhwd-A&usqp=CAU" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/alalUDDIN123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://leetcode.com/alalu75666/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon.png" alt="GitHub" height="40" width="40" /></a>
-
-
 </p>
 
+---
+---
+<h1 align="center"> Github  </h1>
+<br />
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alalUDDIN123&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
+</p>
 <br />
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -110,10 +116,7 @@
 </div>
 
 <br/>
-<br/>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alalUDDIN123&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
-</p>
+
 
 <br/>
 <br/>
@@ -127,6 +130,9 @@
 <br/>
 
 
-### ✍️ Random Dev Quote of the day 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
+                                                         ✍️ Random Dev Quote of the day 
+<p align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
+</p>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center) -->
 
