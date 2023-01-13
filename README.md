@@ -90,12 +90,20 @@
 </p>
 <br/>
 
-<h2 align="center">🔥 GitHub Stats</h2>
+<!-- <h2 align="center">🔥 GitHub Stats</h2>
 <br/>
 
 <p style="border:2px solid red; background:rgb(13,17,23); border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
 <img src="https://github-readme-stats.vercel.app/api?username=alalUDDIN123&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="50%" height="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-047&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" height="98%"/>
-</p>
+</p> -->
+
+<h2 align='center'>📊 My Github Stats</h2>
+
+<div style="display: flex;">
+    <img width="450px" height="200px" alt="Alal Uddin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaluddin123&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="450px" height="200px" alt="Alal Uddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaluddin123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+<br/>
 
 <br/>
 <br/>
