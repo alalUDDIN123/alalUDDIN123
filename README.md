@@ -104,6 +104,10 @@
     <img width="400px" height="200px" alt="Alal Uddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaluddin123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <br/>
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaluddin123&theme=github_dark" alt="Alal Uddin" align = "center"/></p>
+</div>
 
 <br/>
 <br/>
@@ -113,9 +117,9 @@
 
 <br/>
 <br/>
-<p align="center" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
+<!-- <p align="center" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
   <img src="https://activity-graph.herokuapp.com/graph?username=alalUDDIN123&theme=high-contrast&hide_border=false"/>
-</p>
+</p> -->
 
 <br/>
 
