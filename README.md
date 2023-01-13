@@ -80,7 +80,7 @@
 
 ---
 ---
-<h1 align="center"> Github  </h1>
+<h1 align="center"> Github Activity  </h1>
 <br />
 <br/>
 <p align="center">
@@ -111,7 +111,7 @@
 </div>
 <br/>
 <div>
-  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <h2 align='center'><b> :balance_scale: Github Profile Details</b></h2><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaluddin123&theme=github_dark" alt="Alal Uddin" align = "center"/></p>
 </div>
 
@@ -129,8 +129,7 @@
 
 <br/>
 
-
-                                                         ✍️ Random Dev Quote of the day 
+  <h2 align='center'><b> ✍️ Random Dev Quote of the day </b></h2><br/>
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
 </p>
