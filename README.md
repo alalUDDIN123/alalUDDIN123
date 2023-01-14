@@ -105,9 +105,9 @@
 
 <h2 align='center'>📊 My Github Stats</h2>
 
-<div style="display: flex;">
-    <img width="400px" height="200px" alt="Alal Uddin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaluddin123&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-    <img width="400px" height="200px" alt="Alal Uddin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaluddin123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<div style="border:2px solid red; background:rgb(13,17,23); border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
+    <img width="50%" height="100%" alt="Alal Uddin's Github Stats" src="https://i.pinimg.com/564x/e6/c3/c1/e6c3c1b1a30fb97982323c5d6cc3093a.jpg" />
+
 </div>
 <br/>
 <div>
