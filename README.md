@@ -105,7 +105,7 @@
 
 <h2 align='center'>📊 My Github Stats</h2>
 
-<div style="border:2px solid red; background:rgb(13,17,23); border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;">
+<div style="border:2px solid red; background:rgb(13,17,23); border-radius:10px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;" align ="center">
     <img width="50%" height="100%" alt="Alal Uddin's Github Stats" src="https://i.pinimg.com/564x/e6/c3/c1/e6c3c1b1a30fb97982323c5d6cc3093a.jpg" />
 
 </div>
