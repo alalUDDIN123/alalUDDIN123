@@ -91,8 +91,9 @@
 
 <br/>
 
-<p align="center" style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px">
-  <img src="https://github-profile-trophy.vercel.app/?username=alalUDDIN123&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
+
+<p align="center" style="border-radius:10px">
+  <img src="https://github-profile-trophy.vercel.app/?username=alaluddin123&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
 </p>
 <br/>
 
@@ -133,5 +134,5 @@
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true" style="border:2px solid red; border-radius:5px; box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px;"/>
 </p>
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center) -->
+
 
