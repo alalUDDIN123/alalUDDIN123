@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alal Uddin</h1>
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+
 
 ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 <h3 align="center" style="font-style: italic;">__ A passionate Full Stack Web developer from India __</h3>
 <em><b>I'm passionate about solving technical problems and researching and developing new sites and technologies.I undertake and challenge myself to always improve, by being proactive, responsible, and committed to finding the perfect solution to any problem.</b> 😊😊</em>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/alalUDDIN123"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%206%2B%20months%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+</p> -->
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 
----
 <br/>
 
 
@@ -32,9 +34,19 @@
 </h3>
 
 <br/>
+<h2 align="left"> 📫 Connect with me :</h2>
+<p align="center" >
+  
+ 
 
+<a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="blank"><img align="center" src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/alal-uddin-066444206/" height="30" width="100" /></a>
+     <a href="https://github.com/alaluddin123" target="blank"><img align="center" src="https://camo.githubusercontent.com/b2d1ae072c968dbeaf2232f0e1071ae5a7b218b11caec1ae5c69c10ef370a3cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="https://github.com/alaluddin123" height="30" width="100" /></a>
+  <a href="alalu75666@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="alalu75666@gmail.com" height="30" width="100" /></a>
+</p>
 
 <!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
+
 ## 🚀 Languages and Tools:
 <div >
  <div ><h2>Frontend</h2>
@@ -68,18 +80,8 @@
  </div>
 </div>
 
----
----
+<p  width="90%" m='auto' ><img width='100%' src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alal-uddin-066444206/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1GkfjNpv6I2RNkgssOCcm7uhGcCWlhwd-A&usqp=CAU" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/alalUDDIN123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-  <a href="https://leetcode.com/alalu75666/" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon.png" alt="GitHub" height="40" width="40" /></a>
-</p>
-
----
----
 <h1 align="center"> Github Activity 👍 👍 👍 👍 👍  </h1>
 <br />
 <br/>
