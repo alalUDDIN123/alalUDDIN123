@@ -20,7 +20,7 @@
  
 - 🔭 **Enthusiastic** learner
 
-- 🌱 Currently learning **Full Stack Web Development**
+- 🌱 Currently working as a**Full Stack Web Developer**
 
 - 👯 Looking to collaborate on **Open Source Projects and in Web Development**
 
